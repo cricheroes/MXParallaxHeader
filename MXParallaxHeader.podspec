@@ -7,7 +7,7 @@
 #
 
 Pod::Spec.new do |s|
-  s.name             = "MXParallaxHeader"
+  s.name             = "CHMXParallaxHeader"
   s.version          = "1.1.0"
   s.summary          = "Simple parallax header for UIScrollView."
   s.description      = <<-DESC
@@ -20,7 +20,7 @@ Pod::Spec.new do |s|
   s.homepage         = "https://github.com/maxep/MXParallaxHeader"
   s.license          = 'MIT'
   s.author           = { "Maxime Epain" => "maxime.epain@gmail.com" }
-  s.source           = { :git => "https://github.com/maxep/MXParallaxHeader.git", :tag => s.version.to_s }
+  s.source           = { :git => "https://github.com/cricheroes/MXParallaxHeader.git", :tag => s.version.to_s }
   s.social_media_url = 'https://twitter.com/MaximeEpain'
 
   s.platform     = :ios, '9.0'
